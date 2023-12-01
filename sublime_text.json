@@ -1,0 +1,19 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	//"reveal_menu": false,
+	"tab_size": 2,
+	"file_tab_style": "square",
+	"scroll_speed": 0,
+	"highlight_modified_tabs": true,
+	"show_tab_close_buttons": false,
+	"font_size": 11,
+	"mini_diff": false,
+	"ruler_style": "solid",
+	"highlight_line": true,
+	"block_caret": false,
+	"ensure_newline_at_eof_on_save": true,
+	"auto_complete": false,
+	"trim_trailing_white_space_on_save": "all",
+	"hot_exit": "disabled",
+}
