@@ -7,7 +7,6 @@
 	"scroll_speed": 0,
 	"highlight_modified_tabs": true,
 	"show_tab_close_buttons": false,
-	"font_size": 11,
 	"mini_diff": false,
 	"ruler_style": "solid",
 	"highlight_line": true,
