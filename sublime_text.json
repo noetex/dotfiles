@@ -1,7 +1,5 @@
-// Settings in here override those in "Default/Preferences.sublime-settings",
-// and are overridden in turn by syntax-specific settings.
+// General
 {
-	//"reveal_menu": false,
 	"tab_size": 2,
 	"file_tab_style": "square",
 	"scroll_speed": 0,
@@ -15,4 +13,23 @@
 	"auto_complete": false,
 	"trim_trailing_white_space_on_save": "all",
 	"hot_exit": "disabled",
+	"scroll_context_lines": 5,
+	"drag_text": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"show_indentation": true,
+	"show_syntax": true,
+	"hide_new_tab_button": true,
+	"hide_tab_scrolling_buttons": true,
+	"show_sidebar_button": false,
+	"hardware_acceleration": "opengl",
+	"open_tabs_after_current": false,
+	"tab_completion": false,
+	"reveal_tabs_with_timeout": true,
+}
+
+// Syntax-specific
+// (.txt)
+{
+	"ensure_newline_at_eof_on_save": false,
 }
