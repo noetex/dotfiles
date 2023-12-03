@@ -33,3 +33,10 @@
 {
 	"ensure_newline_at_eof_on_save": false,
 }
+
+
+// Keybindings
+[
+	{ "keys": ["ctrl+\\"], "command": "toggle_status_bar" },
+	{ "keys": ["ctrl+tab"], "command": "toggle_tabs" },
+]
