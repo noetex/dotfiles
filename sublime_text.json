@@ -39,4 +39,5 @@
 [
 	{ "keys": ["ctrl+\\"], "command": "toggle_status_bar" },
 	{ "keys": ["ctrl+tab"], "command": "toggle_tabs" },
+	{ "keys": ["alt"], "command": "toggle_menu" },
 ]
